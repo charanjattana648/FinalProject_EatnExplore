@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "628384303567",
+    "firebase_url": "https://finalprojecteatnexplore-c6a2e.firebaseio.com",
+    "project_id": "finalprojecteatnexplore-c6a2e",
+    "storage_bucket": "finalprojecteatnexplore-c6a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628384303567:android:ec98db8721500502",
+        "android_client_info": {
+          "package_name": "com.example.guri.eatnexplorerestaurantfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628384303567-eiqrofq9d14f9j28qoa26hfnra36duq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guri.eatnexplorerestaurantfinder",
+            "certificate_hash": "ff014f407c606a303e8400a8ef7648807a0c4188"
+          }
+        },
+        {
+          "client_id": "628384303567-o7cerpcsistfpog4qolkq8fbdssob8s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guri.eatnexplorerestaurantfinder",
+            "certificate_hash": "91cd686d1f696d0b266e6843dac68d714b2ef664"
+          }
+        },
+        {
+          "client_id": "628384303567-hdutlocejlf8i1bippsb5l1j1otpf20d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGPqPly7XmVJ9TMPWAH2I5CBJOFdMq1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628384303567-hdutlocejlf8i1bippsb5l1j1otpf20d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

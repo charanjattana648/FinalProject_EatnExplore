@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">EatnExploreRestaurantFinder</string>
+    <string name="splashText">Splash Image</string>
+    <string name="searchHint">Search nearby restaurants</string>
+    <string name="google">Sign in with Google</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="topBarFragText">Eat n Explore</string>
+    <string name="hintEmail">Enter Email</string>
+    <string name="hintPassword">Enter Password</string>
+    <string name="hintConfirmPassword">Confirm Password</string>
+    <string name="btnAlreadyUser">already registered login here</string>
+    <string name="hintEnterUsername">Enter Username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home_screen_main">Map</string>
+    <string name="searchTag">Enter search tag</string>
+    <string name="enterSearchLoc">Enter Location</string>
+
+
+    <string name="reviewTxt">Submit your reviews</string>
+    <string name="placeTxt">Place: </string>
+    <string name="ratingTxt">Rating: </string>
+    <string name="reviewHint">Type your review</string>
+    <string name="submitBtn">Submit</string>
+    <string name="imageDesc">An image of coffee</string>
+    <string name="writeRevTxt">Write your review here: </string>
+    <string name="typeHint">Type here</string>
+    <string name="tempBtn">Temp Btn Show Feedback</string>
+
+    <string name="oAuthClientId">628384303567-hdutlocejlf8i1bippsb5l1j1otpf20d.apps.googleusercontent.com</string>
+
+</resources>
